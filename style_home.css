@@ -1,0 +1,43 @@
+a {
+    font-size: 30px;
+    background-color: rgb(0, 0, 0);
+    color:tomato
+}
+
+a:visited {
+    color:black;
+}
+
+a:hover {
+    color: hotpink;
+}
+
+.center {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width:700px;
+    height:auto;
+    
+}
+
+h1 {
+    color:yellow;
+    background-color: purple;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h3 {
+    text-align:initial;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+*{
+    background-color: lightcoral;
+}
